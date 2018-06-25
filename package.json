@@ -1,6 +1,6 @@
 {
   "name": "invisibleink",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Invisible Ink api for keeping text secure. ",
   "main": "index.js",
   "directories": {
